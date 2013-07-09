@@ -1,6 +1,6 @@
 #Contact module#
 
-PyroCMS coms with a core contact module which record a contact log not accesible neither frontend or backend.
+PyroCMS comes with a core contact module which record a contact log not accesible neither frontend nor backend.
 
 I think is useful view that contact log, so I decided make some changes and here they are.
 
